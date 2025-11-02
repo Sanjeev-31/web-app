@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Web App</title>
+</head>
+<body>
+  <h1>Welcome to my web app!</h1>
+  
+  <!-- Message will appear here -->
+  <p id="message"></p>
+  
+  <!-- Button to trigger the JS function -->
+  <button onclick="showMessage()">Click me!</button>
+  
+  <!-- Link to your script.js -->
+  <script src="script.js"></script>
+</body>
+</html>
